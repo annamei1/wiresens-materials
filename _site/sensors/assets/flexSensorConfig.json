@@ -18,7 +18,7 @@
     {
       "id": 1,
       "protocol": "serial",
-      "serialPort": "COM28",
+      "serialPort": "/dev/cu.usbserial-0287BBE3",
       "deviceName": "Esp1",
       "startCoord": [0, 0],
       "endCoord": [31, 31],
